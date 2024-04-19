@@ -1,0 +1,14 @@
+D:\DATA\GitCode\Advance\AdvanceProject\AdvanceProject\bin\Debug\net8.0\AdvanceProject.exe
+D:\DATA\GitCode\Advance\AdvanceProject\AdvanceProject\bin\Debug\net8.0\AdvanceProject.deps.json
+D:\DATA\GitCode\Advance\AdvanceProject\AdvanceProject\bin\Debug\net8.0\AdvanceProject.runtimeconfig.json
+D:\DATA\GitCode\Advance\AdvanceProject\AdvanceProject\bin\Debug\net8.0\AdvanceProject.dll
+D:\DATA\GitCode\Advance\AdvanceProject\AdvanceProject\bin\Debug\net8.0\AdvanceProject.pdb
+D:\DATA\GitCode\Advance\AdvanceProject\AdvanceProject\obj\Debug\net8.0\AdvanceProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\GitCode\Advance\AdvanceProject\AdvanceProject\obj\Debug\net8.0\AdvanceProject.AssemblyInfoInputs.cache
+D:\DATA\GitCode\Advance\AdvanceProject\AdvanceProject\obj\Debug\net8.0\AdvanceProject.AssemblyInfo.cs
+D:\DATA\GitCode\Advance\AdvanceProject\AdvanceProject\obj\Debug\net8.0\AdvanceProject.csproj.CoreCompileInputs.cache
+D:\DATA\GitCode\Advance\AdvanceProject\AdvanceProject\obj\Debug\net8.0\AdvanceProject.dll
+D:\DATA\GitCode\Advance\AdvanceProject\AdvanceProject\obj\Debug\net8.0\refint\AdvanceProject.dll
+D:\DATA\GitCode\Advance\AdvanceProject\AdvanceProject\obj\Debug\net8.0\AdvanceProject.pdb
+D:\DATA\GitCode\Advance\AdvanceProject\AdvanceProject\obj\Debug\net8.0\AdvanceProject.genruntimeconfig.cache
+D:\DATA\GitCode\Advance\AdvanceProject\AdvanceProject\obj\Debug\net8.0\ref\AdvanceProject.dll

@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DATA\\GitCode\\Advance\\AdvanceProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02A2E22F-2763-40D0-9C2B-CD160218A66B}|Installer\\Installer.aiproj|D:\\DATA\\GitCode\\Advance\\AdvanceProject\\Installer\\Installer.aip||{AE40A4D1-A614-4A08-B9E2-B74E011783ED}",
+      "RelativeMoniker": "D:0:0:{02A2E22F-2763-40D0-9C2B-CD160218A66B}|Installer\\Installer.aiproj|solutionrelative:Installer\\Installer.aip||{AE40A4D1-A614-4A08-B9E2-B74E011783ED}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9251394-386F-4F05-851B-69B0DB8A3F63}|AdvanceProject\\AdvanceProject.csproj|d:\\data\\gitcode\\advance\\advanceproject\\advanceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9251394-386F-4F05-851B-69B0DB8A3F63}|AdvanceProject\\AdvanceProject.csproj|solutionrelative:advanceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Installer.aip",
+              "DocumentMoniker": "D:\\DATA\\GitCode\\Advance\\AdvanceProject\\Installer\\Installer.aip",
+              "RelativeDocumentMoniker": "Installer\\Installer.aip",
+              "ToolTip": "D:\\DATA\\GitCode\\Advance\\AdvanceProject\\Installer\\Installer.aip",
+              "RelativeToolTip": "Installer\\Installer.aip",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHISURBVDhPhVNLKERRGD5zETU1NlaEmCI7r0QSSRQrC7JRYiElyWqwsZKITIkNsmCBQuxsKNmNd1aSR2bkWV4hcX3fuefmuHl89c33/XPO/5//PK5LAE89STGQA3AdXFXccvuO3qG/wzRNu0A1ZJpewz24Bq7evnsmas66btZHKk05osFQWqZUhwesAHu7r2sLoPv5TfNVHNBhFyhRquMcXAQDuy/eHGgaOIMio2AYvISB9lOgCVb4hbn7wvrSk4Gr9svGToT6yg1gn2WtDkotKzELTtJ4wp44Ftp4TvVBvfxPQyu6yKbhpDwaYAcrrnFV\u002BNkSd2BmObGtMtL1NmwNfwMPv4XGKD/tW1l4KKj6EEY/4vjEiItNaCboBoOvZsQcdAJ0opg/LrRiXw2vzWOIj6HxuJ6p2PDrXMSHeAtLmJMBz8LfgGt1cQsvViivTaCT5rpgRwwSB5ksR4SIU6pD5rHAHo0DfqyaRQPldvz0Dsg8FuAenUgGA0jmKhsqdkLmscAQGGLwAyKVOsH5zBMGDuIRym/BPov/wHnVKk92wNPkV1gEHjP\u002BAxwvUvMl5NdoA3uOgvCp8ummg9HgHbgN8pWOIVnrVIhPzkGPxMISqlgAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-19T12:08:07.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DATA\\GitCode\\Advance\\AdvanceProject\\AdvanceProject\\Program.cs",
+              "RelativeDocumentMoniker": "AdvanceProject\\Program.cs",
+              "ToolTip": "D:\\DATA\\GitCode\\Advance\\AdvanceProject\\AdvanceProject\\Program.cs",
+              "RelativeToolTip": "AdvanceProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:58:09.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
